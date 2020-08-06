@@ -8212,6 +8212,8 @@ h6 {
 /* line 3, /Applications/MAMP/htdocs/old/palash/cl/shop_html/sass/_contact.scss */
 .contact-info {
   margin-bottom: 25px;
+  margin-left: 20px;
+  padding: 5px;
 }
 
 /* line 6, /Applications/MAMP/htdocs/old/palash/cl/shop_html/sass/_contact.scss */
@@ -8250,6 +8252,8 @@ h6 {
   font-size: 27px;
   font-weight: 600;
   margin-bottom: 20px;
+  margin-top: 40px;
+  margin-left: 50px;
 }
 
 /* line 47, /Applications/MAMP/htdocs/old/palash/cl/shop_html/sass/_contact.scss */
