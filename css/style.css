@@ -541,20 +541,20 @@ ul {
   display: inline-block;
   padding: 17px 50px;
   border-radius: 5px;
-  background-color: #f7b09e ;
-  border: 2px solid #f7b09e D;
+  background-color: #fff ;
+  border: 2px solid #f7b09e;
   font-size: 15px;
   font-weight: 500;
   -webkit-transition: 0.5s;
   transition: 0.5s;
   text-transform: capitalize;
-  color: #fff;
+  color: #f7b09e;
 }
 
 /* line 36, /Applications/MAMP/htdocs/old/palash/cl/shop_html/sass/_button.scss */
 .btn_1:hover {
-  background-color: #fff;
-  color: #f7b09e ;
+  background-color: #f7b09e;
+  color: #fff ;
 }
 
 @media (max-width: 991px) {
@@ -2383,7 +2383,7 @@ ul {
     position: absolute;
     left: 0;
     top: 50px;
-    width: 100%;
+    width: 50%;
     background-color: #fff;
     text-align: center !important;
   }
@@ -2405,7 +2405,7 @@ ul {
   }
   /* line 213, /Applications/MAMP/htdocs/old/palash/cl/shop_html/sass/_menu.scss */
   .navbar-brand img {
-    max-width: 120px;
+    max-width: 150px;
     margin: 0 auto;
     position: absolute;
     left: 0;
@@ -3156,7 +3156,7 @@ input:focus {
 .client_review p {
   font-size: 24px;
   line-height: 1.5;
-  color: #fff;
+  color: #5c8f90;
 }
 
 @media (max-width: 991px) {
@@ -3309,7 +3309,7 @@ input:focus {
 
 /* line 1, /Applications/MAMP/htdocs/old/palash/cl/shop_html/sass/_subscribe_part.scss */
 .subscribe_part {
-  background-color: #4B3049;
+  background-color: #f7b09e;
 }
 
 /* line 3, /Applications/MAMP/htdocs/old/palash/cl/shop_html/sass/_subscribe_part.scss */
@@ -8252,8 +8252,7 @@ h6 {
   font-size: 27px;
   font-weight: 600;
   margin-bottom: 20px;
-  margin-top: 40px;
-  margin-left: 50px;
+
 }
 
 /* line 47, /Applications/MAMP/htdocs/old/palash/cl/shop_html/sass/_contact.scss */
@@ -8350,8 +8349,8 @@ h6 {
 @media (max-width: 576px) {
   /* line 123, /Applications/MAMP/htdocs/old/palash/cl/shop_html/sass/_contact.scss */
   .contact-section .btn_1 {
-    margin-bottom: 0px !important;
-    margin-top: 0px !important;
+    margin-bottom: -5px !important;
+    margin-top: -5px !important;
   }
 }
 
